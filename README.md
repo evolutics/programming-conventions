@@ -16,6 +16,7 @@
 - load, save
 - new, old
 - next, previous
+- parse, print
 - pop, push
 - pull, push
 - read, write
