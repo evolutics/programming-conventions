@@ -1,1 +1,23 @@
 # Programming Conventions
+
+## Naming
+
+### Terms that go together
+
+- actual, target
+- add, remove
+- after, before
+- agent, controller
+- allow, deny
+- close, open
+- create, delete
+- destination, source
+- infix, prefix, suffix
+- load, save
+- new, old
+- next, previous
+- pop, push
+- pull, push
+- read, write
+- set up, tear down
+- start, stop
