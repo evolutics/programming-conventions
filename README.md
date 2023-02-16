@@ -11,6 +11,7 @@
 - allow, deny
 - close, open
 - create, delete
+- demote, promote
 - destination, source
 - infix, prefix, suffix
 - load, save
