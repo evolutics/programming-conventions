@@ -4,7 +4,7 @@
 
 ### Terms that go together
 
-- actual, target
+- actual, desired
 - add, remove
 - after, before
 - agent, controller
