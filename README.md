@@ -24,3 +24,14 @@
 - read, write
 - set up, tear down
 - start, stop
+
+## Programming languages
+
+### Bash
+
+Follow this [style guide](https://google.github.io/styleguide/shellguide.html).
+
+### Rust
+
+Follow this
+[naming guide](https://rust-lang.github.io/api-guidelines/naming.html).
