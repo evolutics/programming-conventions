@@ -31,6 +31,10 @@
 
 Follow this [style guide](https://google.github.io/styleguide/shellguide.html).
 
+### Python
+
+Follow this [style guide](https://peps.python.org/pep-0008/).
+
 ### Rust
 
 Follow this
