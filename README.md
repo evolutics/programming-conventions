@@ -39,3 +39,5 @@ Follow this [style guide](https://peps.python.org/pep-0008/).
 
 Follow this
 [naming guide](https://rust-lang.github.io/api-guidelines/naming.html).
+
+It is fine to panic with `unwrap()` to signal bugs.
