@@ -5,6 +5,7 @@
 ### Terms that go together
 
 - absent, present
+- acquire, release
 - actual, desired
 - add, remove
 - after, before
