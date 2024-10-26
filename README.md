@@ -15,6 +15,7 @@
 - create, delete
 - demote, promote
 - destination, source
+- failure, success
 - infix, prefix, suffix
 - load, save
 - new, old
